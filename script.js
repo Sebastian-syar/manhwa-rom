@@ -5,7 +5,7 @@ const series = [
     chapter: "Capitole 92",
     rating: "7.5",
     genre: "Erotica",
-    image: "https://cdn.anime-nexus.io/DLcDRME8wnst7.jpg",
+    image: "https://cdn.anime-nexus.io/RfVLvHKCSPxcb.jpg",
     link: "learning.html",
 },
 
@@ -14,7 +14,7 @@ const series = [
     chapter: "Capitole 85",
     rating: "9.4",
     genre: "Action • Fantasy",
-    image: "https://cdn.anime-nexus.io/LqkbbJ9ptcv5w.jpg",
+    image: "https://cdn.anime-nexus.io/SjQgNVc8BGNeq.jpg",
     link: "absolute.html",
 },
 
